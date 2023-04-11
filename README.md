@@ -37,10 +37,13 @@ PDP(Partial Dependence Plot)로 모델 해석을 진행 하였습니다.
 
 ## 출력 예시
 - 각 특성별 분포 kde
+
 ![image](https://user-images.githubusercontent.com/98085184/231072990-cdc256eb-832c-4cc6-8e61-12961b5dd25c.png)
 
 - 모델 예측 점수  
+
 ![1111](https://user-images.githubusercontent.com/98085184/231073752-69b6bdf9-8d24-4aad-aa0b-c7ea76e5059b.png)
 
 - PDP 차트  
+
 ![image](https://user-images.githubusercontent.com/98085184/231073267-4d00b517-619f-4e10-8dc0-84f2884fe622.png)
